@@ -1,0 +1,4 @@
+DevOps is important because it's a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments.
+
+Why DevOps?
+Before we know what DevOps is, it is very important to know how DevOps came into existence. Before DevOps, we had the waterfall model and the agile model for software development. So let us have a look at the waterfall model.
