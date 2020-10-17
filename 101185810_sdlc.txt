@@ -1,0 +1,6 @@
+DevOps provides a competitive advantage to organizations—by enabling them to improve and create products faster. Collaboration helps operations and development to reduce implementation failures, have shorter development cycles, and improve internal communication.
+
+DevOps enable teams to follow the entire deployment cycle—from writing and testing code to integration, containerization, and delivery. DevOps enables you to see the full picture.
+DevOps is a unified approach to problem solving and company culture—learning the communication skills and agile methods of DevOps can help developers communicate better with non-dev team members like designers or marketers. These skills can make you a more desirable employee.
+
+DevOps certification—a DevOps certification can help you stay relevant in an ever-evolving industry. You can get more work done and provide better value to your company with DevOps capabilities.
